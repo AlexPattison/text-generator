@@ -1,0 +1,24 @@
+{
+  "name": "text-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPattison/text-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPattison/text-generator/issues"
+  },
+  "homepage": "https://github.com/AlexPattison/text-generator#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.3.1",
+    "styled-components": "^4.0.2"
+  }
+}
